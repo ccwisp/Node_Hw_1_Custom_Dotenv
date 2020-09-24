@@ -1,0 +1,18 @@
+{
+  "name": "Custom Dotenv",
+  "version": "1.0.0",
+  "description": "Dotenv package config function written manually",
+  "main": "customdotenv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dotenv",
+    "config"
+  ],
+  "author": "David Vardanian",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
